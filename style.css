@@ -4,15 +4,32 @@ color: white;
 }
 .aa{
 background-color: #36393e;
-    
+    text-align: center;
+    border: 1px solid grey;
+    margin: 3px;
+    text-shadow: #222324;
 }
 .bb{
     background-color:#ffffff;
     box-shadow: black;
     border-radius: 6px;
+
 }
 .a{
 background-color: cornflowerblue;
 color: cornsilk;
 
 }
+.a:hover{
+background-color: dimgrey;
+box-shadow:black;
+}
+.s{
+box-shadow: darkslategrey;
+margin: 2.5px;
+border-radius: 6px;
+}
+.bb:hover{
+background-color: #36393e;
+padding: 1px;
+color: darkgray;}
